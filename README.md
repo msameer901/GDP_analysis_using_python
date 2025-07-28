@@ -45,7 +45,7 @@ A data analysis project demonstrating GDP data extraction, processing, and visua
 5. Open the file GDP_Analysis.ipynb and run all the cells.
 
    
-## 📬 Contact
+## Contact
 
 If you have any questions, suggestions, or feedback, feel free to reach out:
 
