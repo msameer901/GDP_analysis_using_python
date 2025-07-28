@@ -3,3 +3,8 @@ numpy
 matplotlib
 seaborn
 jupyter
+openpyxl            # For reading Excel (.xlsx) files
+plotly              # For interactive visualizations
+scikit-learn        # If you did any machine learning or regression
+requests            # If you fetched data from a URL
+beautifulsoup4      # If you scraped data from websites
