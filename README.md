@@ -43,3 +43,11 @@ A data analysis project demonstrating GDP data extraction, processing, and visua
 4. Start Jupyter Notebook
    jupyter notebook
 5. Open the file GDP_Analysis.ipynb and run all the cells.
+
+   
+## 📬 Contact
+
+If you have any questions, suggestions, or feedback, feel free to reach out:
+
+- https://www.linkedin.com/in/your-username)](https://www.linkedin.com/in/shahryar-a-667783236/
+- ibneameer2005@gmail.com
