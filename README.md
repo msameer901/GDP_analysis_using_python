@@ -34,3 +34,12 @@ A data analysis project demonstrating GDP data extraction, processing, and visua
    ```bash
    git clone https://github.com/yourusername/gdp-data-analysis.git
    cd gdp-data-analysis
+2. (Optional) Create a virtual Env
+   python -m venv venv
+   source venv/bin/activate      # On macOS/Linux
+   venv\Scripts\activate         # On Windows
+3. Install required packages
+   pip install -r requirements.txt
+4. Start Jupyter Notebook
+   jupyter notebook
+5. Open the file GDP_Analysis.ipynb and run all the cells.
